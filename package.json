@@ -1,0 +1,23 @@
+{
+  "name": "nodeproject",
+  "version": "1.0.0",
+  "description": "Course project  for Node.js 0 to WebApps",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lingaiah-ctu/nodeproject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lingaiah-ctu/nodeproject/issues"
+  },
+  "homepage": "https://github.com/lingaiah-ctu/nodeproject#readme"
+}
